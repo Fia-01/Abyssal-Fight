@@ -17,8 +17,8 @@ Le choix de l'équipement : Avant de lancer le combat, vous choisissez votre éq
 
 Le combat : Pendant le combat, vous avez plusieurs options :
 
-Cliquer sur l'ennemi pour l'attaquer a hauteur de vos DMG.
-Utiliser une action pour vous soigner.
-Affaiblir l'ennemi (le Gobelin).
+*Cliquer sur l'ennemi pour l'attaquer a hauteur de vos DMG. 
+*Utiliser une action pour vous soigner.  
+*Affaiblir l'ennemi (le Gobelin). 
 
 Vous gagnez quand tous les ennemis sont morts (actuellement, le jeu se joue sur un seul round).
