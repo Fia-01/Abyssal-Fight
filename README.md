@@ -17,8 +17,7 @@ Le choix de l'équipement : Avant de lancer le combat, vous choisissez votre éq
 
 Le combat : Pendant le combat, vous avez plusieurs options :
 
-1 - Cliquer sur l'ennemi pour l'attaquer a hauteur de vos DMG. 
-
+1 - Cliquer sur l'ennemi pour l'attaquer a hauteur de vos DMG.           
 2 - Utiliser une action pour vous soigner.  
 3 - Affaiblir l'ennemi (le Gobelin). 
 
