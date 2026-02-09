@@ -10,7 +10,9 @@ Au début, vous verrez les ennemis que vous allez combattre ainsi que leurs stat
 Le choix de l'équipement : Avant de lancer le combat, vous choisissez votre équipement qui définit vos stats :
 
 **- DMG : Vos dégâts d'attaque.**
+
 **- HP : Votre barre de vie.**
+
 **- DEF : Votre défense (réduit les dégâts reçus. Par exemple, 10 DEF = chaque coup reçu fait 10 DMG de moins).**
 
 Le combat : Pendant le combat, vous avez plusieurs options :
