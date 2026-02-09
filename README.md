@@ -17,10 +17,10 @@ Le choix de l'équipement : Avant de lancer le combat, vous choisissez votre éq
 
 **- DEF : Votre défense (réduit les dégâts reçus. Par exemple, 10 DEF = chaque coup reçu fait 10 DMG de moins).**
 
-Le combat : Pendant le combat, vous avez plusieurs options :
-
-1 - Cliquer sur l'ennemi pour l'attaquer a hauteur de vos DMG.           
-2 - Utiliser une action pour vous soigner.  
-3 - Affaiblir l'ennemi (le Gobelin). 
+## - Le combat -
+  Chaque tour vous avez le choix entre :
+ - Cliquer sur l'ennemi pour l'attaquer a hauteur de vos DMG.           
+ - Utiliser une action pour vous soigner.  
+ - Affaiblir l'ennemi (le Gobelin). 
 
 Vous gagnez quand tous les ennemis sont morts (actuellement, le jeu se joue sur un seul round).
