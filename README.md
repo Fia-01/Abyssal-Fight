@@ -3,7 +3,7 @@
 Abyssal Fight est un jeu de combat au tour par tour développé entièrement en C# avec l'interface WinForms. 
 C'est un projet qui m'a permis de bien comprendre la logique de programmation orientée objet (POO) et la gestion d'états dans un jeu.
 
-## - Comment ça marche ? -
+## - Comment jouer ? -
 
 Au début, vous verrez les ennemis que vous allez combattre ainsi que leurs statistiques (HP / DMG), le mode Facile Réduit leur HP/DMG.
 
